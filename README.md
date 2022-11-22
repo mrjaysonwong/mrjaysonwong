@@ -5,7 +5,7 @@
 - 🌱 My long term goal: Full Stack Web Developer.
 - 👯 I’m looking to collaborate with like minded developers that are passionate to share their knowledge.
 - 🤔 I’m looking for help with authentication for (back-end).
-- ⚡ Fun fact: I like flying drones, photography/videography, hiking/camping.
+- ⚡ Fun fact: I like flying drones, photography/videography, hiking/camping, planets/stars.
 
 ✉️ Connect with Me
 
