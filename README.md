@@ -1,7 +1,7 @@
 👩‍💻  About Me :
 
 - 🔭 I’m currently working on real world projects using ReactJS, NextJS
-- 🌱 My short term goal: to be knowledgeable about from these languages and frameworks (ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, Material UI, Boostrap, Mantine).
+- 🌱 My short-term goal: is to be knowledgeable about these languages and frameworks (ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, Material UI, Boostrap, and Mantine).
 - 🌱 My long term goal: Full Stack Web Developer.
 - 👯 I’m looking to collaborate with like minded developers that are passionate to share their knowledge.
 - 🤔 I’m looking for help with authentication for (back-end).
