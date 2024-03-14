@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on real world projects using ReactJS, NextJS
 - 🌱 My short-term goal: is to be knowledgeable about these languages and frameworks (ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, Material UI, Boostrap, and Mantine).
 - 🌱 My long term goal: Full Stack Web Developer.
-- 👯 I’m looking to collaborate with like minded developers that are passionate to share their knowledge.
-- 🤔 I’m looking for help with authentication for (back-end).
-- ⚡ Fun fact: I like flying drones, photography/videography, hiking/camping, planets/stars.
+- 👯 I’m looking to collaborate with like minded developers that are passionate developing web applications.
+- 🤔 I’m looking for help with Unit Testing (Jest).
+- ⚡ I like flying drones, photography/videography, hiking/camping, astronomy, I am sports enthusiast.
 
 ✉️ Connect with Me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjaysonwong/)
@@ -13,14 +13,14 @@
 [![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://mrjaysonwong.vercel.app/)
 
 ### :hammer_and_wrench: Languages and Frameworks:
-![js](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
-![html](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![css](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![react](https://camo.githubusercontent.com/8f4903a3ebda3dbed27128a2935e3dfa67a1eedb599b5ef7e2e3eca0471ef4f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b)
-![next](https://camo.githubusercontent.com/bfa42fcd0e2a979d168d3652b0ddab5966786d6ea6816b22841c6d355d81bdd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)
-![node](https://camo.githubusercontent.com/01fe91a34346782e7f23e82ac0e438b3675adc1a57c08096934bdf31fcc852b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
-![express](https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)
-![mongodb](https://camo.githubusercontent.com/83162c756f0b623759ad4f64d5965d86bc1907de7a7cdec7ffd8aede8adee62f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](tps://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 👩‍💻 Web Communication
 |   |  |
